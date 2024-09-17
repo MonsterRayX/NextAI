@@ -6,9 +6,11 @@
 ### Integrated OpenAI's gpt-3.5-turbo/GPT-4 API and Langchain techonologies, resulting in a sophisticated AI Agent capable of document loading, splitting, storage, retrieval, and output functionalities
 
 
-## Run the backend server
+## Run backend server
  `node server.js`
 
+## Run frontend
+ `npm start` 
 
 ## Necessary packages to install
  `npm install`
