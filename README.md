@@ -12,5 +12,7 @@
 
 ## Necessary packages to install
  `npm install`
+
  `npm i react-speech-recognition@3.10.01`
+
  `npm i speak-tts@2.0.8`
